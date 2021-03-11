@@ -3,7 +3,8 @@ c = Currency
 
 
 doc = """
-This is a one-period public goods game with 3 players.
+Este es el cambio que hemos realizado para la tarea 3
+Esperemos que todo resulte bien c:
 """
 
 
